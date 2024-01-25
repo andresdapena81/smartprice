@@ -1,0 +1,7 @@
+{
+  "name": "AppPrecios2024",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
